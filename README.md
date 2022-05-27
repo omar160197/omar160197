@@ -1,4 +1,3 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif)](https://www.linkedin.com/in/omar-barakat-543b12222/)
 <h1 align="center">Hi 👋, I'm Omar Barakat</h1>
 <h3 align="center">Full Stack Developer</h3>
 

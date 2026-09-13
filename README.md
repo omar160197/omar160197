@@ -46,6 +46,16 @@ Frontend and full-stack delivery for a Next.js e-commerce platform with SEO-focu
 
 → [alhabibpharmacy.com](https://alhabibpharmacy.com)
 
+### Production fintech platforms
+
+White-label trading applications delivered on the Bruno platform from initial product build through production release and live operation:
+
+- [Bruno](https://bruno.tradesocio.com)
+- [Mint CFD](https://app.mintcfd.com)
+- [Mint CFD Mauritius](https://app.mintcfd.mu)
+- [ESAFX WebTrader](https://webtrader.esafx.co.id/)
+- [9CFD](https://9cfd.tradesocio.com)
+
 ## What I work with
 
 **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, shadcn/ui, Material UI, Redux Toolkit, MobX, Zustand

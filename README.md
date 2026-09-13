@@ -1,39 +1,83 @@
-<h1 align="center">Hi 👋, I'm Omar Barakat</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Hi, I'm Omar Barakat 👋</h1>
 
-<img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
+<h3 align="center">Senior Software Engineer · Frontend & Full-Stack Product Development · Squad Lead</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omar160197&label=Profile%20views&color=0e75b6&style=flat" alt="omar160197" /> </p>
-
-- 🔭 I’m currently working on [Life E-Commerce](https://github.com/omar160197/Life-Ecommerce-)
-
-- 🌱 I’m currently learning **RTK Query , AWS**
-
-- 👯 I have worked on [Pet Hotel System](https://github.com/omar160197/PetHotel)
-
-- 🤝 I have worked on [LIFE Dashboard Management System (Upwork)](https://github.com/omar160197/Life-Dashboard)
-
-- 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~0116761c75115d8b0e](https://www.upwork.com/freelancers/~0116761c75115d8b0e)
-
-- 📝sample of my work on YouTube [https://www.youtube.com/channel/UC1jG5Bu4DsMlOSU-tSdWOQQ](https://www.youtube.com/channel/UC1jG5Bu4DsMlOSU-tSdWOQQ)
-
-- 💬 Ask me about **React , Redux Toolkit , Node.js , GraphQl**
-
-- 📫 How to reach me **omarparakat@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CfWmCtd3bcZ3K_aO6_6EnfBkxaVybXvM/view?usp=sharing](https://drive.google.com/file/d/1CfWmCtd3bcZ3K_aO6_6EnfBkxaVybXvM/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/omar barakat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omar barakat" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/omar133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omar133" height="30" width="40" /></a>
+<p align="center">
+  I build product-focused web applications and data-rich interfaces with React, Next.js, TypeScript, and modern UI systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/omar-barakat-b327ab357/">LinkedIn</a> ·
+  <a href="https://www.upwork.com/freelancers/omarbarakat11">Upwork</a> ·
+  <a href="mailto:omarparakat@gmail.com">Email</a> ·
+  <a href="https://github.com/omar160197">GitHub</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar160197&show_icons=true&locale=en&layout=compact" alt="omar160197" /></p>
+## About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar160197&show_icons=true&locale=en" alt="omar160197" /></p>
+- Senior Software Engineer and squad lead with 5+ years of experience across fintech, e-commerce, and enterprise SaaS.
+- I work across frontend architecture, component systems, real-time data experiences, API integration, and release delivery.
+- Current focus: investment products, AI-assisted workflows, financial data interfaces, and developer experience.
+- I enjoy turning complex product and business requirements into clear, accessible, maintainable interfaces.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar160197&" alt="omar160197" /></p>
+## Selected work
+
+### InvestWhat — AI financial platform
+
+Product work across a React/TypeScript investment platform with AI-assisted investment insights, financial data workflows, real-time market experiences, and goal-oriented user journeys.
+
+→ [investwhat.com](https://investwhat.com)
+
+### AI Investor — public dashboard prototype
+
+A Next.js and React investment dashboard exploring portfolio views, market movers, sentiment, earnings, watchlists, charts, and AI-assistant experiences.
+
+→ [Live demo](https://ai-investor-kappa.vercel.app) · [Source code](https://github.com/omar160197/AI-Investor)
+
+### InvestSmart Hub — investment product UI exploration
+
+A TypeScript, React, Vite, and Tailwind-based product interface exploring research, alerts, screeners, portfolio copilot, market data, and prediction-intelligence experiences.
+
+→ [Source code](https://github.com/omar160197/investsmart-hub)
+
+### Alhabib Pharmacy — e-commerce platform
+
+Frontend and full-stack delivery for a Next.js e-commerce platform with SEO-focused rendering, analytics, search and discovery, Magento integration, and payment workflows.
+
+→ [alhabibpharmacy.com](https://alhabibpharmacy.com)
+
+## What I work with
+
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, shadcn/ui, Material UI, Redux Toolkit, MobX, Zustand
+
+**Product engineering:** component architecture, responsive design, accessibility, design systems, performance optimization, SSR/SSG/ISR, real-time interfaces
+
+**Backend and integrations:** Node.js, Express, NestJS, REST APIs, WebSockets, PostgreSQL, MySQL, MongoDB, Elasticsearch, Algolia, Redis
+
+**Quality and delivery:** Jest, React Testing Library, Cypress, Playwright, Git, CI/CD, Appflow, Vite, Webpack, Figma
+
+## Experience highlights
+
+- Leading a squad of engineers while staying hands-on with product development and technical decisions.
+- Building fintech interfaces around real-time market data, trading workflows, charts, and portfolio experiences.
+- Designing AI-assisted engineering workflows, including context-aware review automation and communication-to-issue flows.
+- Delivering cross-platform web and mobile experiences with consistent UI behavior and release discipline.
+
+## Career snapshot
+
+| Period | Organization | Focus |
+| --- | --- | --- |
+| Aug 2025 – present | Salem Ventures | Fintech products, AI-assisted investment workflows, squad leadership, engineering automation |
+| Jan 2024 – Aug 2025 | Lean Scale | E-commerce platforms, search and discovery, analytics, payments, full-stack delivery |
+| Feb 2021 – Mar 2023 | Tradesocio | Real-time trading interfaces, market data, charting, mobile releases |
+| Feb 2020 – Mar 2021 | Pearls LLC / Upwork | ERP dashboards, workflow products, e-commerce, and freelance delivery |
+
+## More
+
+- [View my CV](https://drive.google.com/file/d/1CfWmCtd3bcZ3K_aO6_6EnfBkxaVybXvM/view?usp=sharing)
+- [HackerRank](https://www.hackerrank.com/profile/omar133)
+- [Public repositories](https://github.com/omar160197?tab=repositories)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omar160197&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
